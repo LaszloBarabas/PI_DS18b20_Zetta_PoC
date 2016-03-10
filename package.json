@@ -1,0 +1,16 @@
+{
+  "author": "Laszlo Barabas",
+  "name": "01_Pi_DS18B20",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "ds18b20": "~0.1.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
