@@ -5,6 +5,7 @@ Configuration ( to be able PI to work with the ds18b20 ) sensor:
 
 1. Load modules 
   ```
+  sudo modprobe wire 
   sudo modprobe w1-gpio 
   sudo modprobe w1_therm
   ```
