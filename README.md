@@ -1,7 +1,9 @@
 # PI_DS18b20_Zetta_PoC
 Proof of concept to use ds18b20 temperature sensor on pi with zetta framework. 
 
-Configuration ( to be able PI to wirk with the ds18b20 ) sensor: 
+Configuration ( to be able PI to work with the ds18b20 ) sensor: 
+
+Load modules 
 ```
 sudo modprobe w1-gpio 
 sudo modprobe w1_therm
